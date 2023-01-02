@@ -29,7 +29,7 @@ import java.util.List;
 import java.util.Optional;
 
 @RestController
-@RequestMapping("/api/university")
+@RequestMapping("/Univ-service/api/university")
 @CrossOrigin
 public class UniversityController {
 

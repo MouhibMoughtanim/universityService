@@ -13,7 +13,7 @@ import java.util.List;
 import java.util.Optional;
 
 @RestController
-@RequestMapping("/api/universityBill")
+@RequestMapping("/Univ-service/api/universityBill")
 @CrossOrigin
 public class UniversityBillController {
 
